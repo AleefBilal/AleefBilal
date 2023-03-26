@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @AleefBilal
-- 👀 I’m interested in ...Networking and Security
-- 🌱 I’m currently learning ...Penetration testing
-- 💞️ I’m looking to collaborate on ...Penetration testing
 - 📫 How to reach me ...mirbilalahmed18@gmail.com
 
 <!---
